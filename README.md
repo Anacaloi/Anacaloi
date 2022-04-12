@@ -1,7 +1,7 @@
-## Oiii eu sou a Anacaloi, estudante de desenvolvimento Front End!
+## Olá me chamo Ana, sou estudante de desenvolvimento Front End!
 
 
-- 🌱 No momento estou estudando desenvolvimento web utilizando HTML, CSS e Javascript.
+- 🌱 No momento estou estudando Desenvolvimento Web e Lógica de Programação utilizando HTML, CSS e Javascript.
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
