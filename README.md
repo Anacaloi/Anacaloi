@@ -1,7 +1,7 @@
 ## Olá me chamo Ana, sou Desenvolvedora Front End e Analista de Dados!
 
 
-- 🌱 No momento estou estudando Desenvolvimento Web com HTML, CSS e Javascript e Análise de Dados com Python.
+- 🌱 No momento estou estudando Desenvolvimento Web com HTML, CSS e Javascript e Análise de Dados com SQL.
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
