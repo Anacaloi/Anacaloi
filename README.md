@@ -4,7 +4,7 @@
 - 🌱 No momento estou estudando Desenvolvimento Web Front-End com HTML, CSS e Javascript e Análise de Dados com Google Sheets, SQL e Power BI. Participo do Bootcamp elasNaTech organizado pela JA Brasil em parceria com a CCR e também da Certificação em Análise de dados da Laboratória em parceria com a IBM.
 - Meus projetos favoritos até agora: <br>
   <a href="https://anacaloi.github.io/portfolio/">Portfólio Front End desenvolvido no curso da Origamid</a><br>
-  <a href="[https://anacaloi.github.io/portfolio/](https://anacaloi.github.io/certificard/)">Certificard desenvolvido durante a Imersão Dev da Alura</a>
+  <a href="https://anacaloi.github.io/certificard/">Certificard desenvolvido durante a Imersão Dev da Alura</a>
 
 <div align="center">
   <a href="https://github.com/Anacaloi">
